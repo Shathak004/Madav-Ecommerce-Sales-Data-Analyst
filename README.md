@@ -1,1 +1,1 @@
-# Madav-Ecommerce-Sales-Data-Analyst
+# Madav-Ecommerce-Store-Data-Analyst
